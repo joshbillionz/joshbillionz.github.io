@@ -23,6 +23,18 @@ body{
 	color:white;
 }
 
+.contact{	
+  font-family:arial,verdana;
+  width: 50px;
+  background-color:#35424a;
+  color:white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius:5px;
+  cursor: pointer;
+}
+
 th, td {
     padding: 20px;
     border-bottom: 1px solid ;
