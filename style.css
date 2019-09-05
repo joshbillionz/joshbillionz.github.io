@@ -23,17 +23,7 @@ body{
 	color:white;
 }
 
-.contact{	
-  font-family:arial,verdana;
-  width: 50px;
-  background-color:#35424a;
-  color:white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  border-radius:5px;
-  cursor: pointer;
-}
+
 
 th, td {
     padding: 20px;
@@ -43,6 +33,17 @@ th, td {
 
  td div{
     border-bottom: 3px solid #fff;;
+}
+
+.details{
+	border:2px groove #c2c2d6;
+	width:35%;
+	color:#fffffffb;
+	padding:30px;
+	margin-left:32%;
+	border-radius:5px;
+	margin-top:30px;
+	margin-bottom:20px;
 }
 
 
