@@ -23,7 +23,6 @@ body{
 	color:white;
 }
 
-<<<<<<< HEAD
 .contact{	
   font-family:arial,verdana;
   width: 50px;
@@ -36,9 +35,6 @@ body{
   cursor: pointer;
   color:#fffffffb;
 }
-=======
-
->>>>>>> 86170042ff8c51d298a64162fe0dda0e256d3a47
 
 th, td {
     padding: 20px;
@@ -61,5 +57,10 @@ th, td {
 	margin-bottom:20px;
 }
 
+.form{
+     padding: 20px;
+    border-bottom: 1px solid ;
+    text-align: left;
+}
 
 
